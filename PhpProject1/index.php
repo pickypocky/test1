@@ -16,7 +16,7 @@ and open the template in the editor.
         // hello2
         
         // hello 3 this is the branch a b
-        // this is a branch too.
+        // this is a branch too belonging to my_test_branch
         ?>
     </body>
 </html>
