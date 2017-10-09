@@ -14,6 +14,17 @@ and open the template in the editor.
         // put your code here
         
         // hello2
+        helloWorld();
         ?>
     </body>
 </html>
+
+
+<?php
+
+function helloWorld()
+{
+    
+       echo "hello world";
+    
+}
