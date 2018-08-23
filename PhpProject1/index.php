@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        
+
         // hello2
         helloWorld();
         ?>
@@ -20,11 +20,15 @@ and open the template in the editor.
 </html>
 
 
+
 <?php
+
+
 
 function helloWorld()
 {
-    
-       echo "hello world";
-    
+/***************/
+
+       echo "hello world changed 2";
+
 }
